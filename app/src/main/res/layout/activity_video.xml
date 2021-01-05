@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Post.VideoActivity">
+<EditText
+    android:id="@+id/titlevideo"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:text="Enter post"
+    android:layout_marginTop="10dp"
+    android:textColor="@android:color/darker_gray"
+    android:inputType="textAutoComplete|textAutoCorrect|number"
+    ></EditText>
+
+    <VideoView
+        android:id="@+id/videoadd"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        tools:ignore="MissingConstraints"
+        android:layout_below="@id/titlevideo"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="156dp">
+
+    </VideoView>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/uploadvideo"
+        android:layout_marginTop="15dp"
+        android:text="Upload video"
+        android:layout_below="@id/videoadd"></Button>
+</RelativeLayout>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "764013665074",
+    "project_id": "islamic-likee",
+    "storage_bucket": "islamic-likee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764013665074:android:68c26775af715a7933952b",
+        "android_client_info": {
+          "package_name": "com.akhi.IslamiLikee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764013665074-liopdh6p9r4rr05ji724ra76k71f3eck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcItNHzzQUOPDvasGZf4EZbjQ-4Xvxm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764013665074-liopdh6p9r4rr05ji724ra76k71f3eck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764013665074:android:d92e33395b0e9fe133952b",
+        "android_client_info": {
+          "package_name": "com.akhi.islamiclikee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764013665074-liopdh6p9r4rr05ji724ra76k71f3eck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEcItNHzzQUOPDvasGZf4EZbjQ-4Xvxm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764013665074-liopdh6p9r4rr05ji724ra76k71f3eck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
